@@ -7,14 +7,9 @@
 }
 
 body {
-	font-family:"Lucida Sans Unicode", sans-serif;
+	
 
-  background-color:#16110f;
-	min-height:100vh;
-	overflow-x:hidden;
-	font-size:13px;
 
-}
 
 /* The alert message box */
 .alert {
