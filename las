@@ -19,4 +19,7 @@
 <body style="background-color:black">
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
     <a class="navbar-brand" href="#">Elveria- timer bossow & metinow</a>
-    </html>
+</nav>
+<div style="text-align: center"><img src="logo2.png" alt="Elveria"></div>
+<main role="main" class="container">
+</html>
