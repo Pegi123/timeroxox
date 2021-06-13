@@ -18,5 +18,5 @@
 <body>
 <body style="background-color:black">
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Glevia- timer bossow & metinow</a>
+    <a class="navbar-brand" href="#">Elveria- timer bossow & metinow</a>
     </html>
