@@ -2,7 +2,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Glevia - timer bossów & metinów">
+    <meta name="description" content="Elveria- timer bossów & metinów">
     <title>Glevia - timer bossów & metinów</title>
     <link rel='shortcut icon'
           href='OX.BIAŁE.png'>
