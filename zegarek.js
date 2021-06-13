@@ -79,10 +79,10 @@ undefined, // napis bossy
 30 * 60, // góra sohan
 30 * 60, // piekło
 30 * 60, // świątynia hwang
-60 * 60, // Antyczne drzewo
-60 * 60, // Eoten
+60 * 60, // las
+60 * 60, // las
 undefined,// napis metiny
-20 * 60 // metin 90
+20 * 60 // metiny las
 
 
 ];
@@ -96,7 +96,7 @@ let bossNames = [
  "Antyczne Drzewo",
  "Eoten",
  undefined, // napis metiny
- "Metin 90"
+ "Metiny Las"
 
  
  ];
