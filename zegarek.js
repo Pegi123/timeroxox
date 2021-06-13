@@ -79,8 +79,8 @@ undefined, // napis bossy
 30 * 60, // góra sohan
 30 * 60, // piekło
 30 * 60, // świątynia hwang
-60 * 60, // red las Antyczne drzewo
-60 * 60, // red las Eoten
+60 * 60, // Antyczne drzewo
+60 * 60, // Eoten
 undefined,// napis metiny
 20 * 60 // metin 90
 
