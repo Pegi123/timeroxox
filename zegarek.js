@@ -79,9 +79,8 @@ undefined, // napis bossy
 30 * 60, // góra sohan
 30 * 60, // piekło
 30 * 60, // świątynia hwang
-60 * 60, // red las
-240 * 60, // red las legenda
-360 * 60, // grota av1 legenda
+60 * 60, // red las Antyczne drzewo
+60 * 60, // red las Eoten
 undefined,// napis metiny
 20 * 60, // metin 90
 
@@ -94,9 +93,8 @@ let bossNames = [
  "Dziewięć Ogonów",
  "Ognisty Król",
  "Reinkar, Zjawa",
- "Olbrzymi Duch Drzewa",
- "Red las (LEGENDA)",
- "Grota AV1 (LEGENDA)",
+ "Antyczne Drzewo",
+ "Eoten",
  undefined, // napis metiny
  "Metin 90"
 
