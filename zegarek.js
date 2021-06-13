@@ -83,8 +83,8 @@ undefined, // napis bossy
 240 * 60, // red las legenda
 360 * 60, // grota av1 legenda
 undefined,// napis metiny
-15 * 60, // Tu-Young red las Metin
-15 * 60, // Jeon-Un red las Metin
+20 * 60, // metin 90
+
 
 ];
 let bossNames = [
@@ -98,10 +98,9 @@ let bossNames = [
  "Red las (LEGENDA)",
  "Grota AV1 (LEGENDA)",
  undefined, // napis metiny
- "Metin Tu-Young",
- "Metin Jeon-Un",
- "Metin Żaru,Próżności",
- "Mapa 100 Metin"
+ "Metin 90"
+
+ 
  ];
 let allowNotifiaiotns = true;
 
