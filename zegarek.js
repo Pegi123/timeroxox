@@ -82,7 +82,7 @@ undefined, // napis bossy
 60 * 60, // red las Antyczne drzewo
 60 * 60, // red las Eoten
 undefined,// napis metiny
-20 * 60, // metin 90
+20 * 60 // metin 90
 
 
 ];
