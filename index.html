@@ -130,6 +130,21 @@
         </div>
     </div>
 	   <div style="text-align: center">
+		    <style>
+    img.gray
+    {
+        -webkit-filter: grayscale(0%); /* filtr grayscale dla Safari 6.0 - 9.0 */
+        filter: grayscale(0%); /* filtr grayscale dla reszty przeglądarek */
+        transition-property: filter; /* ustawienie, dla jakich elementów będzie wykonywana animacja przejścia */
+        transition-duration: 0,5s; /* czas animacji */
+        transition-timing-function: linear; /* sposób realizacji animacji - liniowy */
+    }
+    img.gray:hover /* zdarzenie najechania kursora myszy na znacznik img z atrybutem class = "gray" */
+    {
+        -webkit-filter: grayscale(56%); /* docelowa wartość animacji dla filtra gray (Safari 6.0 - 9.0) */
+        filter: grayscale(56%); /* docelowa wartość animacji dla filtra gray */
+    }
+</style>
 
 		    <a href="gorasohan.html"><img class="gray" src="gorasohan.png" alt="mapa sohan"></a>
 		    <a href="ognista.html"><img class="gray" src="ognista.png" alt="mapa ognista ziemia"></a>
