@@ -41,7 +41,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-	 <style>
+	
     img.gray
     {
         -webkit-filter: grayscale(0%); /* filtr grayscale dla Safari 6.0 - 9.0 */
@@ -55,4 +55,4 @@ body {
         -webkit-filter: grayscale(56%); /* docelowa wartość animacji dla filtra gray (Safari 6.0 - 9.0) */
         filter: grayscale(56%); /* docelowa wartość animacji dla filtra gray */
     }
-</style>
+
