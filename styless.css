@@ -13,6 +13,9 @@ body {
 	overflow-x:hidden;
 	font-size:13px;
 }
+    .gray:hover {
+	    color: gray;
+}
 
 
 
