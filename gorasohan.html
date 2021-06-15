@@ -23,9 +23,25 @@
 
 <body>
 <body style="background-color:black">
+	   <style>
+    img.gray
+    {
+        -webkit-filter: grayscale(0%); /* filtr grayscale dla Safari 6.0 - 9.0 */
+        filter: grayscale(0%); /* filtr grayscale dla reszty przeglądarek */
+        transition-property: filter; /* ustawienie, dla jakich elementów będzie wykonywana animacja przejścia */
+        transition-duration: 0,5s; /* czas animacji */
+        transition-timing-function: linear; /* sposób realizacji animacji - liniowy */
+    }
+    img.gray:hover /* zdarzenie najechania kursora myszy na znacznik img z atrybutem class = "gray" */
+    {
+        -webkit-filter: grayscale(56%); /* docelowa wartość animacji dla filtra gray (Safari 6.0 - 9.0) */
+        filter: grayscale(56%); /* docelowa wartość animacji dla filtra gray */
+    }
+</style>
     
     <div style="text-align: left">
-      <a href="index.html"><img src="backed.png" alt="Powrot"></a>
+      <a href="index.html"><img class="gray" src="backed.png" alt="Powrót"></a>
+	    
         
    <div style="text-align: center">
 	   <h1><a href="9ogon.html"><p class="idk">Dziewięć Ogonów</h1>
