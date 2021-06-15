@@ -13,8 +13,8 @@ body {
 	overflow-x:hidden;
 	font-size:13px;
 }
-    img.idk:hover {
-	    color: gray;
+    .idk:hover {
+	    color: black;
 }
 
 
