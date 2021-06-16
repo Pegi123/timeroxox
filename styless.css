@@ -8,7 +8,7 @@
 body {
 	font-family:"Lucida Sans Unicode", sans-serif;
 	background:url("tlo.jpg") no-repeat;
-	background-color:black;
+	background-colo:black;
 	min-height:100vh;
 	overflow-x:hidden;
 	font-size:13px;
