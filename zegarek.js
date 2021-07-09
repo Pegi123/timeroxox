@@ -75,10 +75,10 @@ let resetButtons = [];
 let respawnTimes = [
 2 * 60 + 2, //test
 undefined, // napis bossy
-30 * 60, // loch v2
-30 * 60, // góra sohan
-30 * 60, // piekło
-30 * 60, // świątynia hwang
+60 * 60, // loch v2
+60 * 60, // góra sohan
+60 * 60, // piekło
+60 * 60, // świątynia hwang
 60 * 60, // las
 60 * 60, // las
 undefined,// napis metiny
