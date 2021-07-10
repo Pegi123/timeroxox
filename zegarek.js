@@ -82,8 +82,8 @@ undefined, // napis bossy
 60 * 60, // las
 60 * 60, // las
 undefined,// napis metiny
-20 * 60 // metiny las
-15 * 60 // metiny hwang	
+20 * 60, // metiny las
+15 * 60, // metiny hwang	
 
 
 ];
@@ -97,8 +97,8 @@ let bossNames = [
  "Antyczne Drzewo",
  "Eoten",
  undefined, // napis metiny
- "Metiny Las"
- "Metiny Hwang"
+ "Metiny Las",
+ "Metiny Hwang",
 
  
  ];
