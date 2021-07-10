@@ -83,7 +83,7 @@ undefined, // napis bossy
 60 * 60, // las
 undefined,// napis metiny
 20 * 60 // metiny las
-15* 60 // metiny hwang	
+15 * 60 // metiny hwang	
 
 
 ];
