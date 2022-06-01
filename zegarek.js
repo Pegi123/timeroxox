@@ -75,31 +75,20 @@ let resetButtons = [];
 let respawnTimes = [
 2 * 60 + 2, //test
 undefined, // napis bossy
-60 * 60, // loch v2
-60 * 60, // góra sohan
-60 * 60, // piekło
-60 * 60, // świątynia hwang
-60 * 60, // las
-60 * 60, // las
-undefined,// napis metiny
-20 * 60, // metiny las
-15 * 60, // metiny hwang	
+15 * 60, // 15
+20 * 60, // 20
+25 * 60, // 25
+30 * 60, // 30
 
 
 ];
 let bossNames = [
  "Test dźwięku i powiadomienia",
  undefined,
- "Król Pająków",
- "Dziewięć Ogonów",
- "Ognisty Król",
- "Reinkar, Zjawa",
- "Antyczne Drzewo",
- "Eoten",
- undefined, // napis metiny
- "Metiny Las",
- "Metiny Hwang",
-
+ "15 Minut",
+ "20 Minut",
+ "25 Minut",
+ "30 Minut",
  
  ];
 let allowNotifiaiotns = true;
