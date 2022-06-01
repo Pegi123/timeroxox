@@ -17,6 +17,7 @@
 }
 body {
 	font-family:"Lucida Sans Unicode", sans-serif;
+	background:url("background.jpg") top center no-repeat;
 	background-color:rgb(0, 0, 0);
 	overflow-x:hidden;
 	font-size:13px;
